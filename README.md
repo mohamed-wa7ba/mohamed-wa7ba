@@ -36,7 +36,7 @@
 
 ### 🔥 Streak & Activity:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-wa7ba&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed-wah7ba&show_icons=true&theme=tokyonight" />
 </p>
 
 
