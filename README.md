@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **Nuxt apps and Vue components**
 - 🌱 I’m learning more about **performance optimization and SSR with Nuxt**
 - 💬 Ask me about **Vue, Nuxt, TailwindCSS, front-end architecture**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | your-email@example.com
+- 📫 How to reach me: mohamed@baianat.com
 - ⚡ Fun fact: I build UI like LEGO 🧱
 
 
